@@ -5,7 +5,7 @@ krl-sh: CLI for http://krl.io/
 
 ## Usage
 
-    git clone https://github.com/abemassry/krl-sh ~/.krl
+    git clone https://github.com/illblew/krl-sh ~/.krl
     chmod +x ~/.krl/krl.sh
     alias krl=~/.krl/krl.sh
 
