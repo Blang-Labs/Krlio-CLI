@@ -1,11 +1,11 @@
-krl-sh
+Krlio-CLI
 ==========
 
-krl-sh: CLI for http://krl.io/
+CLI for http://krl.io/
 
 ## Usage
 
-    git clone https://github.com/illblew/krl-sh ~/.krl
+    git clone https://github.com/Krldotio/Krlio-CLI ~/.krl
     chmod +x ~/.krl/krl.sh
     alias krl=~/.krl/krl.sh
 
